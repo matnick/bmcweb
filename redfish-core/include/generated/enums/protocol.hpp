@@ -27,6 +27,7 @@ enum class Protocol{
     HTTPS,
     FTP,
     SFTP,
+    SNMPv2c,
     iWARP,
     RoCE,
     RoCEv2,
